@@ -1,0 +1,6 @@
+.boxes-container {
+  margin-top: 35px;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
